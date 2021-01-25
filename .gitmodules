@@ -1,0 +1,3 @@
+[submodule "react-native-mini-apps-support"]
+	path = react-native-mini-apps-support
+	url = https://github.com/liuxingyuzaixian/react-native-mini-apps-support.git
