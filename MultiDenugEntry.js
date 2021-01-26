@@ -3,7 +3,7 @@ import {AppRegistry} from 'react-native';
 
 import {} from 'react-native';
 import App from './react-native-mini-apps-support/App';
-import MiniApp from './MiniApp';
+import MiniApp from './src/MiniApp';
 import {name as appName} from './react-native-mini-apps-support/app.json';
 
 AppRegistry.registerComponent('reactnative_multibundler', () => App);
